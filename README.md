@@ -14,4 +14,4 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - [Workout 1](https://github.com/shefalisastry/workout01)
 - [Workout 2](https://github.com/shefalisastry/workout_02)
-
+- [Workout 3](https://github.com/shefalisastry/workout03)
